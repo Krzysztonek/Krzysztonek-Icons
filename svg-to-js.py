@@ -49,7 +49,7 @@ def ellipse_to_path(ellipse):
 
 
 # Beginning of file
-js = open("custom-icons.js", 'w')
+js = open("krzysztonek-icons.js", 'w')
 js.write("""var icons = {
 """)
 
