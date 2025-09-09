@@ -31,7 +31,7 @@ who did a lot to allow the author to create and share such a repo.
 
 ### HACS (Recommended):
 This is the recommended way to install _Krzysztonek Icons_.
-_Krzysztonek Icons_ is a default repository for HACS. To install this repo:
+_Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
 - Go to "Frontend" section
