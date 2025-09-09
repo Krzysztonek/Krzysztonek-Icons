@@ -1,16 +1,77 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Integration-41BDF5.svg)](https://github.com/hacs/integration)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/arallsopp/hass-hue-icons)](https://github.com/arallsopp/hass-hue-icons/releases)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![GitHub file size in bytes](https://img.shields.io/github/size/arallsopp/hass-hue-icons/dist/hass-hue-icons.js?label=plugin%20size)
+![GitHub last commit](https://img.shields.io/github/last-commit/arallsopp/hass-hue-icons)
+[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Farallsopp%2Fhass-hue-icons.git)](https://jessemillar.com/r/man-hours)
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # My HA Icons
 
-This is my own repository, which includes some individual icons I use in Home Assistant. It wasn't be possible without the amazing work from:
+Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author that are not represented by the 'official' icon set.
+
+It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
 * [Homeassistant Custom Icons](https://github.com/mathoudebine/homeassistant-custom-icons) by @mathoudebine
 who did a lot to allow me to create and share such a repo.
+
+
+## How to install
+
+### HACS (Recommended):
+This is the recommended way to install Krzysztonek Icons. Krzysztonek icons is a default repository for HACS. To install:
+
+- Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
+- Go to "Frontend" section
+- Click button with "+" icon
+- Search for "Krzysztonek Icons" and install it.
+- Add the following to your configuration.yaml, save and restart HA.
+```
+frontend:
+  extra_module_url:
+    - /hacsfiles/krzysztonek-icons/krzysztonek-icons.js
+```
+
+### Manual:
+- Copy `krzysztonek-icons.js` into your `config/www` folder on HA server.
+- Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
+- set url as `/local/community/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
+- Add the following to your configuration.yaml, save and restart HA.
+```
+frontend:
+  extra_module_url:
+    - /local/krzysztonek-icons.js
+```
+
+- Save, restart Home Assistant.
+
+
+## Usage
+- In your entity editor, specify an icon as `kris:icon-name`
+- If you set `state_color: true` in your card, you'll see the icons get colorised based upon the current RGB setting.
+
+### Example:
+
+```
+title: My Garden
+state_color: true
+type: entities
+entities:
+  - entity: light.stone_lantern
+    name: My Stone Lantern
+    icon: kris:japanese-lantern
+```
 
 ## What icons are inside
 
@@ -57,7 +118,6 @@ who did a lot to allow me to create and share such a repo.
 
 [//]: # (End Krzysztonek Icons)
 
-## How to install
 
 ## Licensing
 You are free to use this integration without any limits and free of charge, unless you change anything of its content.
