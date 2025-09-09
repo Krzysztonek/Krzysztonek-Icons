@@ -22,7 +22,7 @@ It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
 * [Homeassistant Custom Icons](https://github.com/mathoudebine/homeassistant-custom-icons) by @mathoudebine
 
-who did a lot to allow me to create and share such a repo.
+who did a lot to allow the author to create and share such a repo.
 
 
 
