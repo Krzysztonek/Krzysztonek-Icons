@@ -37,7 +37,7 @@ _Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 - Go to "Frontend" section
 - Click button with "+" icon
 - Search for **Krzysztonek Icons** and install it.
-- Add the following to your `configuration.yaml`.
+- Add the following to your `configuration.yaml`:
 ```
 frontend:
   extra_module_url:
