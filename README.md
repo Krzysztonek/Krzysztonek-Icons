@@ -1,12 +1,9 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Integration-41BDF5.svg)](https://github.com/hacs/integration)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/arallsopp/hass-hue-icons)](https://github.com/arallsopp/hass-hue-icons/releases)
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-![GitHub file size in bytes](https://img.shields.io/github/size/arallsopp/hass-hue-icons/dist/hass-hue-icons.js?label=plugin%20size)
-![GitHub last commit](https://img.shields.io/github/last-commit/arallsopp/hass-hue-icons)
-[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Farallsopp%2Fhass-hue-icons.git)](https://jessemillar.com/r/man-hours)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/krzysztonek/krzysztonek-icons)](https://github.com/krzysztonek/my-ha-icons/releases)
+![GitHub file size in bytes](https://img.shields.io/github/size/krzysztonek/my-ha-icons/krzysztonek-icons.js?label=plugin%20size)
+![GitHub last commit](https://img.shields.io/github/last-commit/krzysztonek/my-ha-icons)
+[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Fkrzysztonek%2Fmy-ha-icons.git)](https://jessemillar.com/r/man-hours)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
@@ -27,10 +24,12 @@ It wasn't be possible without the amazing work from:
 who did a lot to allow me to create and share such a repo.
 
 
+
 ## How to install
 
 ### HACS (Recommended):
-This is the recommended way to install Krzysztonek Icons. Krzysztonek icons is a default repository for HACS. To install:
+This is the recommended way to install _Krzysztonek Icons_.
+_Krzysztonek Icons_ is a default repository for HACS. To install:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
 - Go to "Frontend" section
@@ -40,13 +39,13 @@ This is the recommended way to install Krzysztonek Icons. Krzysztonek icons is a
 ```
 frontend:
   extra_module_url:
-    - /hacsfiles/krzysztonek-icons/krzysztonek-icons.js
+    - /hacsfiles/my-ha-icons/krzysztonek-icons.js
 ```
 
 ### Manual:
 - Copy `krzysztonek-icons.js` into your `config/www` folder on HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
-- set url as `/local/community/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
+- set URL as `/local/community/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
 - Add the following to your configuration.yaml, save and restart HA.
 ```
 frontend:
@@ -79,7 +78,7 @@ entities:
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![hue:bloom](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bloom.svg)| hue:bloom | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
+| ![kris:japanese-lantern-1](https://raw.githubusercontent.com/krzysztonek/my-ha-icons/docs/svg/japanese-lantern-1-solid.svg)| hue:bloom | ![hue:bollard](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bollard.svg)| hue:bollard |
 | ![hue:bridge-v1](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bridge-v1.svg)| hue:bridge-v1 | ![hue:bridge-v2](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bridge-v2.svg)| hue:bridge-v2 |
 | ![hue:bulb-candle](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bulb-candle.svg)| hue:bulb-candle | ![hue:bulb-classic](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bulb-classic.svg)| hue:bulb-classic |
 | ![hue:bulb-filament](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bulb-filament.svg)| hue:bulb-filament | ![hue:bulb-flood](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/bulb-flood.svg)| hue:bulb-flood |
