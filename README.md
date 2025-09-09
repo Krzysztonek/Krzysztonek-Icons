@@ -16,7 +16,7 @@
 
 # My HA Icons
 
-Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author that are not represented by the 'official' icon set.
+Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his needs, that are not represented by the 'official' HA icon set.
 
 It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
@@ -34,13 +34,14 @@ _Krzysztonek Icons_ is a default repository for HACS. To install this repo:
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
 - Go to "Frontend" section
 - Click button with "+" icon
-- Search for "Krzysztonek Icons" and install it.
-- Add the following to your configuration.yaml, save and restart HA.
+- Search for **Krzysztonek Icons** and install it.
+- Add the following to your `configuration.yaml`.
 ```
 frontend:
   extra_module_url:
     - /hacsfiles/my-ha-icons/krzysztonek-icons.js
 ```
+- Save, then restart Home Assistant.
 
 ### Manual:
 - Copy `krzysztonek-icons.js` into your `config/www` folder on HA server.
@@ -57,7 +58,7 @@ frontend:
 
 
 ## Usage
-- In your entity editor, specify an icon name followed by `kris:` prefix. Example: `kris:japanese-lantern`.
+- In your entity editor, specify an icon name followed by prefix `kris:`. Example: `kris:japanese-lantern`.
 - If you set `state_color: true` in your card, you'll see the icon gets colorised based upon the current RGB setting.
 
 ### Example:
@@ -85,6 +86,5 @@ entities:
 
 
 ## Licensing
-You are free to use this integration without any limits and free of charge, unless you change anything of its content.
-
-How to create your own icon? Look here: https://github.com/mathoudebine/homeassistant-custom-icons
+You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
