@@ -21,6 +21,7 @@ Additional Home Assistant icon repository, which includes some individual icons 
 It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
 * [Homeassistant Custom Icons](https://github.com/mathoudebine/homeassistant-custom-icons) by @mathoudebine
+* [HASS Hue Icons](https://github.com/arallsopp/hass-hue-icons) by @arallsopp
 
 who did a lot to allow the author to create and share such a repo.
 
