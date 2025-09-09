@@ -87,4 +87,5 @@ entities:
 
 ## Licensing
 You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
