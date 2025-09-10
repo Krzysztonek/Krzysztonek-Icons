@@ -35,9 +35,12 @@ _Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
 - Go to "Frontend" section
-- Click vertical three-dots hamburger button located in the upper-right side of the screen and choose "Custom repositories"
-- Enter URL `https://github.com/Krzysztonek/My-HA-Icons` in the Repository field
-- Choose "Dashboard" as a type and press ADD button
+- Click vertical three-dots hamburger button from the upper-right corner of your screen and choose "Custom repositories"
+- Enter or paste the below URL in the Repository field:
+```
+  https://github.com/Krzysztonek/My-HA-Icons
+```
+- Choose "Dashboard" as a Type and press 'ADD' button
 - Add the following to your `configuration.yaml`:
 ```
 frontend:
