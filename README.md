@@ -14,7 +14,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-# My HA Icons
+# Krzysztonek Icons for Home Assistant
 
 Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that are not represented by the official HA icon stream.
 
@@ -78,6 +78,9 @@ entities:
 
 ## What icons are inside
 
+Basically, this repo contains several typical Chinese and Japanese structures being typically found in gardens or natural open spaces in Far Eastern countries.
+Some gardening tools are also included.
+
 [//]: # (Start Krzysztonek Icons)
 
 | Icon | Name | Icon | Name 
@@ -87,6 +90,10 @@ entities:
 
 [//]: # (End Krzysztonek Icons)
 
+
+
+## Want to contribute?
+If you think this repo may also include your icon, please consider opening a PR, attaching your own `*.png` or `*.svg`.
 
 ## Licensing
 You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
