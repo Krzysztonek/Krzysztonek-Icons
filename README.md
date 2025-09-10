@@ -40,14 +40,11 @@ _Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 ```
   https://github.com/Krzysztonek/My-HA-Icons
 ```
-- Choose "Dashboard" as a Type and press 'ADD' button
-- Add the following to your `configuration.yaml`:
-```
-frontend:
-  extra_module_url:
-    - /hacsfiles/my-ha-icons/krzysztonek-icons.js
-```
-- Save, then restart Home Assistant.
+- Choose "Dashboard" as a Type, press 'ADD' button and close the window.
+- Now type _Krzysztonek Icons_ in the Search field of the HACS dashboard
+- Click vertical three-dots hamburger button next to the repo you found (on the right), and choose 'DOWNLOAD'
+- On the next window click 'DOWNLOAD' again
+- Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
 ### Manual:
 - Copy `krzysztonek-icons.js` into your `config/www` folder on HA server.
@@ -60,7 +57,7 @@ frontend:
     - /local/krzysztonek-icons.js
 ```
 
-- Save, then restart Home Assistant.
+- Save, then restart Home Assistant and enjoy your additional set of icons.
 
 
 ## Usage
