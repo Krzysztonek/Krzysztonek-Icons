@@ -30,26 +30,26 @@ who did a lot to allow the author to create and share such a repo.
 ## How to install
 
 ### HACS (Recommended):
-This is the recommended way to install _Krzysztonek Icons_.
+This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified about new releases or updates</ins>.
 _Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 
-- Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
-- Go to "Frontend" section
-- Click vertical three-dots hamburger button from the upper-right corner of your screen and choose "Custom repositories"
+- Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/));
+- Go to "Frontend" section;
+- Click vertical three-dots hamburger button from the upper-right corner of your screen and choose "Custom repositories";
 - Enter or paste the below URL in the Repository field:
 ```
-  https://github.com/Krzysztonek/Krzysztonek-Icons
+https://github.com/Krzysztonek/Krzysztonek-Icons
 ```
-- Choose "Dashboard" as a Type, press 'ADD' button and close the window
-- Now type _Krzysztonek Icons_ in the Search field of the HACS dashboard
-- Click vertical three-dots hamburger button next to the repo you found (on the right), and choose 'DOWNLOAD'
-- In the next window click 'DOWNLOAD' again
-- Clear cache as prompted
-
-  This repo will be installed in `/config/www/community/Krzysztonek-Icons` folder on your HA server.
+- Choose "Dashboard" as a Type, press 'ADD' button and close the window;
+- Now type _Krzysztonek Icons_ in the Search field of the HACS dashboard;
+- Click vertical three-dots hamburger button next to the repo you found (on the right), and choose 'DOWNLOAD';
+- In the next window click 'DOWNLOAD' again;<br>
+  _(This repo will be installed in `/config/www/community/Krzysztonek-Icons` folder on your HA server)_
+- Clear cache as prompted;
 - Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
 ### Manual:
+If you install it manually, you will be notified about <ins>neither new releases nor updates</ins>.
 - Copy `krzysztonek-icons.js` file into your `config/www` folder on HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set URL as `/local/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
