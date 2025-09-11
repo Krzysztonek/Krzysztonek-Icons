@@ -101,6 +101,10 @@ If you find a bug or would like to contribute new icons, please consider forking
 
 __Contributions are always welcome!__ :heart:
 
+## Donate
+If you find this repository useful, you are welcome to donate this project.
+
+[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/Mhdxy7u6JH)
 
 ## Licensing
 You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
