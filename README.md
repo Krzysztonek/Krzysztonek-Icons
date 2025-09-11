@@ -104,7 +104,15 @@ __Contributions are always welcome!__ :heart:
 ## Donate
 If you find this repository useful, you are welcome to donate this project.
 
+![Static Badge](https://img.shields.io/badge/revolut.me-revolut?style=plastic&logo=revolut&logoSize=imd&labelColor=dodgerblue&link=https%3A%2F%2Frevolut.me%2Fkrzysztonek)
+
+![Static Badge](https://img.shields.io/badge/PayPal-paypal?style=plastic&logo=paypal&logoSize=imd&label=%20&labelColor=lime&color=dodgerblue&link=https%3A%2F%2Fpaypal.me%2Fkrzysztonek)
+
 [![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/Mhdxy7u6JH)
+
+<a href="https://buycoffee.to/krzysztonek" target="_blank"><img src="https://buycoffee.to/img/share-button-primary.png" style="width: 127px; height: 33px" alt="Postaw mi kawę na buycoffee.to"></a>
+
+
 
 ## Licensing
 You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
