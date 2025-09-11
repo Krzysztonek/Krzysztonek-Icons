@@ -38,16 +38,19 @@ _Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
 - Click vertical three-dots hamburger button from the upper-right corner of your screen and choose "Custom repositories"
 - Enter or paste the below URL in the Repository field:
 ```
-  https://github.com/Krzysztonek/My-HA-Icons
+  https://github.com/Krzysztonek/Krzysztonek-Icons
 ```
-- Choose "Dashboard" as a Type, press 'ADD' button and close the window.
+- Choose "Dashboard" as a Type, press 'ADD' button and close the window
 - Now type _Krzysztonek Icons_ in the Search field of the HACS dashboard
 - Click vertical three-dots hamburger button next to the repo you found (on the right), and choose 'DOWNLOAD'
-- On the next window click 'DOWNLOAD' again
+- In the next window click 'DOWNLOAD' again
+- Clear cache as prompted
+
+  This repo will be installed in `/config/www/community/Krzysztonek-Icons` folder on your HA server.
 - Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
 ### Manual:
-- Copy `krzysztonek-icons.js` into your `config/www` folder on HA server.
+- Copy `krzysztonek-icons.js` file into your `config/www` folder on HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set URL as `/local/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
 - Add the following to your `configuration.yaml`:
