@@ -14,7 +14,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-# Krzysztonek Icons for Home Assistant
+# __Krzysztonek Icons__ for Home Assistant
 
 Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that are not represented by the official HA icon stream.
 
@@ -29,9 +29,10 @@ who did a lot to allow the author to create and share such a repo.
 
 ## How to install
 
-### HACS (Recommended):
-This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified about new releases or updates</ins>.
-_Krzysztonek Icons_ is a custom repository for HACS. To install this repo:
+### <ins>HACS (Recommended):</ins>
+_Krzysztonek Icons_ is a custom repository for [HACS](https://hacs.xyz/). This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified about new releases or updates</ins>.
+
+To install this repository:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/));
 - Go to "Frontend" section;
@@ -48,9 +49,9 @@ https://github.com/Krzysztonek/Krzysztonek-Icons
 - Clear cache as prompted;
 - Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
-### Manual:
+### <ins>Manual:</ins>
 :warning: If you install it manually, you will be notified about <ins>neither new releases nor updates</ins>. :warning:
-- Copy `krzysztonek-icons.js` file into your `config/www` folder on HA server.
+- Copy `krzysztonek-icons.js` file into `config/www` folder on your HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set URL as `/local/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
 - Add the following to your `configuration.yaml`:
@@ -67,7 +68,7 @@ frontend:
 - In your entity editor, specify an icon name followed by prefix `kris:`. Example: `kris:japanese-lantern`.
 - If you set `state_color: true` in your card, you'll see the icon gets colorised based upon the current entity state.
 
-### Example:
+#### Example:
 
 ```
 title: My Garden
@@ -98,7 +99,7 @@ Some familiar gardening tools are also included.
 ## Want to contribute?
 If you find a bug or would like to contribute new icons, please consider forking this repository and submitting a PR, attaching your own `*.png` or `*.svg`.
 
-Contributions are always welcome! :heart:
+__Contributions are always welcome!__ :heart:
 
 
 ## Licensing
