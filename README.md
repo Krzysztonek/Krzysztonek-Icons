@@ -96,7 +96,10 @@ Some familiar gardening tools are also included.
 
 
 ## Want to contribute?
-If you think this repo may also include your icon, please consider opening a PR, attaching your own `*.png` or `*.svg`.
+If you find a bug or would like to contribute new icons, please consider forking this repository and submitting a PR, attaching your own `*.png` or `*.svg`.
+
+Contributions are always welcome! :heart:
+
 
 ## Licensing
 You are free to use this integration unlimited and free of charge for personal use only, unless you change anything of its content.
