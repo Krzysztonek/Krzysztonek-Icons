@@ -129,7 +129,7 @@ Each single donation counts much! You can choose one of the options below, which
     </td>
   </tr>
   <tr>
-    <td><b>buycoffee.to</b></td>
+    <td><b>BuyCoffee.to</b></td>
     <td>
       <li> BLIK</li>
       <li> Bank transfer</li>
@@ -148,7 +148,7 @@ Each single donation counts much! You can choose one of the options below, which
       <li> PayPal</li>
     </td>
     <td>
-      <a href="https://paypal.me/krzysztonek" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo" height="35px" style="height: auto !important;width: auto !important;"></a>
+      <a href="https://paypal.me/krzysztonek" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo" height="35px" length="100px" style="height: auto !important;width: auto !important;"></a>
     </td>
     <td>
       <li> No fee</li>
@@ -157,7 +157,7 @@ Each single donation counts much! You can choose one of the options below, which
   <tr>
     <td><b>Revolut</b></td>
     <td>
-      <li> Revolut</li>
+      <li> Revolut.me</li>
       <li> Credit Card</li>
     </td>
     <td>
