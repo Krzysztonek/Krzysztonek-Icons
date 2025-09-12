@@ -27,7 +27,7 @@ who did a lot to allow the author to create and share such a repo.
 
 
 
-## How to install
+## :gear: How to install
 
 ### <ins>HACS (Recommended):</ins>
 _Krzysztonek Icons_ is a custom repository for [HACS](https://hacs.xyz/). This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified about new releases or updates</ins>.
@@ -50,7 +50,7 @@ https://github.com/Krzysztonek/Krzysztonek-Icons
 - Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
 ### <ins>Manual:</ins>
-:warning: If you install it manually, you will be notified about <ins>neither new releases nor updates</ins>. :warning:
+:warning: If you install it manually, you won't be notified about <ins>any future releases or updates ony longer</ins>. :warning:
 - Copy `krzysztonek-icons.js` file into `config/www` folder on your HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set URL as `/local/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
@@ -64,7 +64,7 @@ frontend:
 - Save, then restart Home Assistant and enjoy your additional set of icons.
 
 
-## Usage
+## ⛩️ Usage
 - In your entity editor, specify an icon name followed by prefix `kris:`. Example: `kris:japanese-lantern`.
 - If you set `state_color: true` in your card, you'll see the icon gets colorised based upon the current entity state.
 
@@ -80,7 +80,7 @@ entities:
     icon: kris:japanese-lantern
 ```
 
-## What icons are inside
+## 📖 What icons are inside
 
 Basically, this repo contains several typical Chinese and Japanese structures being typically found in gardens or natural open spaces in Far Eastern countries.
 Some familiar gardening tools are also included.
@@ -96,71 +96,75 @@ Some familiar gardening tools are also included.
 
 
 
-## Want to contribute?
+## ✍️ Want to contribute?
 If you find a bug or would like to contribute new icons, please consider forking this repository and submitting a PR, attaching your own `*.png` or `*.svg`.
 
 __Contributions are always welcome!__ :heart:
 
-## Donate
+## 🙏 Donate
 If you find this repository useful, you are warmly welcome to donate this project.
 
-Each donation coutns much.
+Each single donation counts much! You can choose one of the options below, which suits you much:
+
 
 <table>
   <tr>
-    <th>Platform</th>
-    <th>Payment methods</th>
-    <th>Link</th>
-    <th>Comment</th>
+    <th><i><b>Platform</i></b></th>
+    <th><i><b>Payment methods</i></b></th>
+    <th><i><b>Link</i></b></th>
+    <th><i><b>Comments</i></b></th>
   </tr>
   <tr>
-    <td>Ko-fi</td>
+    <td><b>Ko-fi</b></td>
     <td>
-      <li>PayPal</li>
-      <li>Credit card</li>
+      <li> PayPal</li>
+      <li> Credit card</li>
     </td>
     <td>
       <a href='https://ko-fi.com/krzysztonek' target='_blank'><img height='35px' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </td>
     <td>
-      <li>No fees</li>
-      <li>Single or monthly payment</li>
+      <li> No fee</li>
+      <li> Single or monthly payment</li>
     </td>
   </tr>
   <tr>
-    <td>buycoffee.to</td>
+    <td><b>buycoffee.to</b></td>
     <td>
-      <li>BLIK</li>
-      <li>Bank transfer</li>
+      <li> BLIK</li>
+      <li> Bank transfer</li>
     </td>
     <td>
       <a href="https://buycoffee.to/krzysztonek" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" height="35px" alt="Postaw mi kawę na buycoffee.to"></a>
     </td>
-    <td></td>
+    <td>
+      <li> No fee</li>
+      <li> Single or monthly payment</li>
+    </td>
   </tr>
   <tr>
-    <td>PayPal</td>
+    <td><b>PayPal</b></td>
     <td>
-      <li>PayPal</li>
+      <li> PayPal</li>
     </td>
     <td>
       <a href="https://paypal.me/krzysztonek" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo" height="35px" style="height: auto !important;width: auto !important;"></a>
     </td>
     <td>
-      <li>No fees</li>
+      <li> No fee</li>
     </td>
   </tr>
   <tr>
-    <td>Revolut</td>
+    <td><b>Revolut</b></td>
     <td>
-      <li>Revolut</li>
-      <li>Credit Card</li>
+      <li> Revolut</li>
+      <li> Credit Card</li>
     </td>
     <td>
       <a href="https://revolut.me/krzysztonek" target="_blank"><img src="https://assets.revolut.com/assets/favicons/favicon-32x32.png" height="32px" alt="Revolut"></a>
     </td>
     <td>
-      <li>No fees</li>
+      <li> No fee</li>
     </td>
   </tr>
 </table>
