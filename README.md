@@ -89,7 +89,7 @@ Some familiar gardening tools are also included.
 
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
-| ![kris:japanese-lantern-1](https://github.com/Krzysztonek/My-HA-Icons/blob/main/docs/svg/japanese-lantern-1-solid.svg)| kris:japanese-lantern-1 | ![kris:japanese-lantern-2-outline](https://github.com/Krzysztonek/My-HA-Icons/blob/main/docs/svg/japanese-lantern-2-outline.svg)| kris:japanese-lantern-2-outline |
+| ![kris:buddha-face](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/buddha-face.svg)| kris:buddha-face | ![kris:sekura-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-8.svg)| kris:sekura-8 |
 
 
 [//]: # (End Krzysztonek Icons)
