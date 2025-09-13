@@ -16,7 +16,7 @@
 
 # __Krzysztonek Icons__ for Home Assistant
 
-Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that are not represented by the official HA icon stream.
+Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that have not been represented by the official HA icon stream so far.
 
 It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
