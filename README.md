@@ -90,6 +90,12 @@ Some familiar gardening tools are also included.
 | Icon | Name | Icon | Name 
 | :--- | :--- | :--- | :--- |
 | ![kris:buddha-face](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/buddha-face.svg)| kris:buddha-face | ![kris:sekura-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-8.svg)| kris:sekura-8 |
+| ![kris:sekura-9](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-9.svg)| kris:sekura-9 | ![kris:sekura-10](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-10.svg)| kris:sekura-10 |
+| ![kris:sekura-festival](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-festival.svg)| kris:sekura-festival | ![kris:shinto](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shinto.svg)| kris:shinto |
+| ![kris:spa](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/spa.svg)| kris:spa | ![kris:stone-lantern-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-1.svg)| kris:stone-lantern-1 |
+| ![kris:stone-lantern-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-2.svg)| kris:stone-lantern-2 | ![kris:stone-lantern-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-3.svg)| kris:stone-lantern-3 |
+| ![kris:stone-lantern-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-4.svg)| kris:stone-lantern-4 |
+
 
 
 [//]: # (End Krzysztonek Icons)
