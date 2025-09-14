@@ -1,4 +1,4 @@
-[![hacs_badge](https://img.shields.io/badge/HACS-Integration-41BDF5.svg)]()
+[![hacs_badge](https://img.shields.io/badge/HACS-plugin-orange?style=flat-square&logo=HACS&logoSize=auto&label=HACS&labelColor=grey)]()
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/krzysztonek/krzysztonek-icons)](https://github.com/krzysztonek/my-ha-icons/releases)
 ![GitHub file size in bytes](https://img.shields.io/github/size/krzysztonek/my-ha-icons/krzysztonek-icons.js?label=plugin%20size)
