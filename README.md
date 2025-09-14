@@ -32,7 +32,11 @@ who did a lot to allow the author to create and share such a repo.
 ### <ins>HACS (Recommended):</ins>
 _Krzysztonek Icons_ is a custom repository for [HACS](https://hacs.xyz/). This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified automatically about new releases or updates</ins>.
 
-To install this repository:
+To install this repository, either press the below button:
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Krzysztonek&repository=Krzysztonek-Icons&category=plugin)
+
+or:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/));
 - Go to "Frontend" section;
