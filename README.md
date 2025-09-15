@@ -30,7 +30,7 @@ who did a lot to allow the author to create and share such a repo.
 ## :gear: How to install
 
 ### <ins>HACS (Recommended):</ins>
-_Krzysztonek Icons_ is a custom repository for [HACS](https://hacs.xyz/). This is the recommended way to install _Krzysztonek Icons_. If you install it via HACS, <ins>you will be notified automatically about new releases or updates</ins>.
+_Krzysztonek Icons_ is a custom repository for [HACS](https://hacs.xyz/). This is the recommended way to install this plugin. If you install it via HACS, <ins>you will be notified automatically about new releases or updates</ins>.
 
 To install this repository, either press the below button:
 
