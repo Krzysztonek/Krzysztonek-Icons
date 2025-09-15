@@ -54,7 +54,7 @@ https://github.com/Krzysztonek/Krzysztonek-Icons
 - Restart Home Assistant once downloaded, and enjoy your additional set of icons.
 
 ### <ins>Manual:</ins>
-:warning: If you install it manually, you won't be notified about <ins>any further releases or updates any longer</ins>. :warning:
+:warning: If you install it manually, you won't be notified about <ins> further releases or updates any longer</ins>. :warning:
 - Copy `krzysztonek-icons.js` file into `config/www` folder on your HA server.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
 - set URL as `/local/krzysztonek-icons.js` and Resource Type as `Javascript Module`.
