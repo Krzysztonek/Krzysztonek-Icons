@@ -100,11 +100,8 @@ Some familiar gardening tools are also included.
 | ![kris:bamboo-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bamboo-2.svg)| kris:bamboo-2 | ![kris:bonsai-pot-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-1.svg)| kris:bonsai-pot-1 |
 | ![kris:bonsai-pot-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-2.svg)|  kris:bonsai-pot-2 | ![kris:bonsai-pot-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-3.svg)| kris:bonsai-pot-3 |
 | ![kris:bonsai-pot-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-4.svg)|  kris:bonsai-pot-4 | ![kris:bonsai-pot-5](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-5.svg)| kris:bonsai-pot-5 |
-
 | ![kris:bonsai-tree-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-tree-1.svg)|  kris:bonsai-tree-1 | ![kris:bonsai-tree-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-tree-2.svg)| kris:bonsai-tree-2 |
-
 | ![kris:bonsai-tree-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-tree-3.svg)|  kris:bonsai-tree-3 | ![kris:butterfly-emperor](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/butterfly-emperor.svg)| kris:butterfly-emperor |
-
 | ![kris:buddha-face](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/buddha-face.svg)| kris:buddha-face | ![kris:sekura-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-8.svg)| kris:sekura-8 |
 | ![kris:sekura-9](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-9.svg)| kris:sekura-9 | ![kris:sekura-10](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-10.svg)| kris:sekura-10 |
 | ![kris:sekura-festival](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-festival.svg)| kris:sekura-festival | ![kris:shishi-odoshi](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shishi-odoshi.svg)| kris:shishi-odoshi |
