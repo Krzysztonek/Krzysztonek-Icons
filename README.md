@@ -14,9 +14,12 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-# __Krzysztonek Icons__ for Home Assistant
+<br>
 
-Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that have not been represented by the official HA icon stream so far.
+
+# <img height='80px' src='https://github.com/Krzysztonek/krzysztonek-icons/blob/main/icon.png' border='0' alt='Plugin Logo' /> __Krzysztonek Icons__ for Home Assistant 
+
+Additional Home Assistant icon repository, which includes some individual icons for personal use only. This repo also features some custom vectors created specifically by the author, inspired by his own needs, that have not been represented in the official HA icon streams so far.
 
 It wasn't be possible without the amazing work from:
 * [Custom Brand Icons](https://github.com/elax46/custom-brand-icons) by @elax46
