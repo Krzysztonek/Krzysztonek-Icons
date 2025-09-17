@@ -95,8 +95,8 @@ Some familiar gardening tools are also included.
 
 [//]: # (Start Krzysztonek Icons)
 
-| Icon | Name | Icon | Name 
-| :--- | :--- | :--- | :--- |
+| Icon | Icon name | Icon | Icon name |  
+| :--- | :--- | :--- | :--- |  
 | ![kris:aralia](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/aralia.svg)| kris:aralia | ![kris:bamboo-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bamboo-1.svg)| kris:bamboo-1 |
 | ![kris:bamboo-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bamboo-2.svg)| kris:bamboo-2 | ![kris:bonsai-pot-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-1.svg)| kris:bonsai-pot-1 |
 | ![kris:bonsai-pot-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-2.svg)|  kris:bonsai-pot-2 | ![kris:bonsai-pot-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/bonsai-pot-3.svg)| kris:bonsai-pot-3 |
