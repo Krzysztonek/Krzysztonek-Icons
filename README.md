@@ -2,7 +2,8 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/krzysztonek/krzysztonek-icons)](https://github.com/krzysztonek/my-ha-icons/releases)
 ![GitHub file size in bytes](https://img.shields.io/github/size/krzysztonek/my-ha-icons/krzysztonek-icons.js?label=plugin%20size)
-![GitHub last commit](https://img.shields.io/github/last-commit/krzysztonek/krzysztonek-icons)
+![GitHub_last_release](https://img.shields.io/github/release-date/krzysztonek/krzysztonek-icons)
+
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
