@@ -3,6 +3,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/krzysztonek/krzysztonek-icons)](https://github.com/krzysztonek/my-ha-icons/releases)
 ![GitHub file size in bytes](https://img.shields.io/github/size/krzysztonek/my-ha-icons/krzysztonek-icons.js?label=plugin%20size&color=darkorchid)
 ![GitHub_last_release](https://img.shields.io/github/release-date/krzysztonek/krzysztonek-icons)
+![GitHub_downloads](https://img.shields.io/github/downloads/Krzysztonek/Krzysztonek-icons/total?color=red)
 
 
 
