@@ -118,16 +118,33 @@ Some familiar gardening tools are also included.
 | ![kris:lantern](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/lantern.svg)| kris:lantern | ![kris:lettering](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/lettering.svg)| kris:lettering |
 | ![kris:maneki](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/maneki.svg)| kris:maneki | ![kris:meijo-palace](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/meijo-palace.svg)| kris:meijo-palace |
 | ![kris:mochi](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/mochi.svg)| kris:mochi | ![kris:nijo-castle](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/nijo-castle.svg)| kris:nijo-castle |
-| ![kris:sekura-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-8.svg)| kris:sekura-8 | |
-| ![kris:sekura-9](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-9.svg)| kris:sekura-9 | ![kris:sekura-10](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-10.svg)| kris:sekura-10 |
-| ![kris:sekura-festival](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sekura-festival.svg)| kris:sekura-festival | ![kris:shishi-odoshi](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shishi-odoshi.svg)| kris:shishi-odoshi |
-| ![kris:shinto](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shinto.svg)| kris:shinto | ![kris:spa](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/spa.svg)| kris:spa |
-| ![kris:stone-lantern-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-1.svg)| kris:stone-lantern-1 | ![kris:stone-lantern-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-2.svg)| kris:stone-lantern-2 |
-| ![kris:stone-lantern-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-3.svg)| kris:stone-lantern-3 | ![kris:stone-lantern-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-4.svg)| kris:stone-lantern-4 |
+| ![kris:obon](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/obon.svg)| kris:obon | ![kris:oil-lamp](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/oil-lamp.svg)| kris:oil-lamp |
+| ![kris:omijuki](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/omijuki.svg)| kris:omijuki | ![kris:origami](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/origami.svg)| kris:origami |
+| ![kris:paper-lantern-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-1.svg)| kris:paper-lantern-1 | ![kris:paper-lantern-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-2.svg)| kris:paper-lantern-2 |
+| ![kris:paper-lantern-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-3.svg)| kris:paper-lantern-3 | ![kris:paper-lantern-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-4.svg)| kris:paper-lantern-4 |
+| ![kris:paper-lantern-5](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-5.svg)| kris:paper-lantern-5 | ![kris:paper-lantern-6](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-6.svg)| kris:paper-lantern-6 |
+| ![kris:paper-lantern-7](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lantern-7.svg)| kris:paper-lantern-7 | ![kris:paper-lanterns](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/paper-lanterns.svg)| kris:paper-lanterns |
+| ![kris:park-tree](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/park-tree.svg)| kris:park-tree | ![kris:sakura-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-1.svg)| kris:sakura-1 |
+| ![kris:sakura-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-2.svg)| kris:sakura-2 | ![kris:sakura-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-3.svg)| kris:sakura-3 |
+| ![kris:sakura-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-4.svg)| kris:sakura-4 | ![kris:sakura-5](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-5.svg)| kris:sakura-5 |
+| ![kris:sakura-6](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-6.svg)| kris:sakura-6 | ![kris:sakura-7](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-7.svg)| kris:sakura-7 |
+| ![kris:sakura-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-8.svg)| kris:sakura-8 | ![kris:sakura-9](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-9.svg)| kris:sakura-9 |
+| ![kris:sakura-10](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-10.svg)| kris:sakura-10 | ![kris:sakura-festival](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/sakura-festival.svg)| kris:sakura-festival |
+| ![kris:shinto](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shinto.svg)| kris:shinto | ![kris:shishi-odoshi](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/shishi-odoshi.svg)| kris:shishi-odoshi |
+| ![kris:spa](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/spa.svg)| kris:spa | ![kris:stone-lantern-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-1.svg)| kris:stone-lantern-1 |
+| ![kris:stone-lantern-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-2.svg)| kris:stone-lantern-2 | ![kris:stone-lantern-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-3.svg)| kris:stone-lantern-3 |
+| ![kris:stone-lantern-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-4.svg)| kris:stone-lantern-4 | ![kris:stone-lantern-5](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-5.svg)| kris:stone-lantern-5
+| ![kris:stone-lantern-6](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-6.svg)| kris:stone-lantern-6 | ![kris:stone-lantern-7](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-7.svg)| kris:stone-lantern-7 |
+| ![kris:stone-lantern-8](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stone-lantern-8.svg)| kris:stone-lantern-8 | ![kris:stones](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/stones.svg)| kris:stones |
+| ![kris:taiko](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/taiko.svg)| kris:taiko | ![kris:temple-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/temple-1.svg)| kris:temple-1 |
+| ![kris:torii-gate-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-1.svg)| kris:torii-gate-1 | ![kris:torii-gate-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-2.svg)| kris:torii-gate-2 |
+| ![kris:torii-gate-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-3.svg)| kris:torii-gate-3 | ![kris:torii-gate-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-4.svg)| kris:torii-gate-4 |
+| ![kris:tulip-flower](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/tulip-flower.svg)| kris:tulip-flower | |
 
 
 
 [//]: # (End Krzysztonek Icons)
+<br>
 
 
 
