@@ -73,7 +73,7 @@ frontend:
 
 
 ## 🎮 Usage
-- In your entity editor, specify an icon name followed by prefix `kris:`. Example: `kris:japanese-lantern`.
+- In your entity editor, specify an icon name followed by prefix `kris:`. Example: `kris:oil-lamp`.
 - If you set `state_color: true` in your card, you'll see the icon gets colorised based upon the current entity state.
 
 #### Example:
