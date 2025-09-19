@@ -152,7 +152,7 @@ Some familiar gardening tools are also included.
 ## ✍️ Want to contribute?
 If you find a bug or would like to contribute new icons, please consider forking this repository and submitting a PR, attaching your own `*.png` or `*.svg`.
 
-__Contributions are always welcome!__ :heart:
+__Contributors are always welcome!__ :heart:
 
 ## 🙏 Donate
 If you find this repository useful, you are warmly welcome to donate this project.
