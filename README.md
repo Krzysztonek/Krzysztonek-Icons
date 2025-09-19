@@ -242,6 +242,6 @@ Each single donation counts much! You can choose one of the options below, which
 [revolut_me]: https://revolut.me/krzysztonek
 
 ## Licensing
-You are free to use this plug-in unlimited and free of charge for both personal and commercial use only, unless you change anything of its content.
+You are free to use this plug-in unlimited and free of charge for both personal and commercial use, unless you change anything of its content.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
