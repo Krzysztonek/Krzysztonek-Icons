@@ -140,8 +140,8 @@ Some familiar gardening tools are also included.
 | ![kris:taiko](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/taiko.svg)| kris:taiko | ![kris:temple-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/temple-1.svg)| kris:temple-1 |
 | ![kris:torii-gate-1](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-1.svg)| kris:torii-gate-1 | ![kris:torii-gate-2](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-2.svg)| kris:torii-gate-2 |
 | ![kris:torii-gate-3](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-3.svg)| kris:torii-gate-3 | ![kris:torii-gate-4](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/torii-gate-4.svg)| kris:torii-gate-4 |
-| ![kris:tulip-flower](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/tulip-flower.svg)| kris:tulip-flower | |
-
+| ![kris:tulip-flower](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/tulip-flower.svg)| kris:tulip-flower | ![kris:yin-yang](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/yin-yang.svg)| kris:yin-yang|
+| ![kris:yukata](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/yukata.svg)| kris:yukata | ![kris:yunluo](https://github.com/Krzysztonek/krzysztonek-icons/blob/main/docs/svg/yunluo.svg)| kris:yunluo|
 
 
 [//]: # (End Krzysztonek Icons)
