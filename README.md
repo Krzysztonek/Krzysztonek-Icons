@@ -91,7 +91,7 @@ entities:
 
 ## 📖 What icons are inside
 
-Basically, this repo contains several typical Chinese and Japanese structures being typically found in gardens or natural open spaces in Far Eastern countries.
+Basically, this repo contains several typical Chinese and Japanese structures being typically seen in gardens or natural open spaces in Far Eastern countries.
 Some familiar gardening tools are also included.
 
 [//]: # (Start Krzysztonek Icons)
